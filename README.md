@@ -55,8 +55,8 @@ This is awkward, come back later when I have figured out what to write here, ok?
 <h2 align="center">Stats</h2>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucacicada&show_owner =true&count_private=true&show_icons=true&bg_color=3f3f3f3f&title_color=dfae39&icon_color=dfae39&text_color=dddddd" alt="Luca GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucacicada&show_owner =true&&include_orgs=true&show_icons=true&bg_color=3f3f3f3f&title_color=dfae39&icon_color=dfae39&text_color=dddddd&layout=compact&langs_count=6" alt="Luca Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucacicada&show_owner=true&count_private=true&show_icons=true&bg_color=3f3f3f3f&title_color=dfae39&icon_color=dfae39&text_color=dddddd" alt="Luca GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucacicada&show_owner=true&&include_orgs=true&show_icons=true&bg_color=3f3f3f3f&title_color=dfae39&icon_color=dfae39&text_color=dddddd&layout=compact&langs_count=6" alt="Luca Top Languages">
 </div>
 
 <h2 align="center">Projects</h2>
